@@ -26,6 +26,7 @@ html {
   transform: translateY(-10px);
 }
 
+
 #right-ear {
   transform-origin: top;
   transition: all .5s linear;
